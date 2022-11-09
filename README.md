@@ -1,27 +1,4 @@
 <h1 align="center">
-    <img alt="Firebase-Auth" title="#Firebase-Auth" src=".images/header.png" width="100%" />
-</h1>
-
-<!-- https://alura-github-thumbnail-generator.vercel.app/ -->
-
-<h4 align="center"> 
-	AluraEsporte
-</h4>
-
-<p align="center">
-  <a href="#information_source-o-que-é-o-aluraesporte">O que é o AluraEsporte?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#information_source-como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
-
-## :information_source: O que é o AluraEsporte?
-
-O AluraEsporte é uma aplicação feita em React Native que permite aos usuários encontrarem produtos de esportes. Nessa aplicação foi integrado o Firebase para que os usuários possam se cadastrar e fazer login.
-
-Esse projeto é utilizado na formação Firebase de React Native da plataforma da Alura.
-
-
-<h1 align="center">
     <img alt="Demonstracao" title="Demonstracao" src=".images/demo.gif" width="400px" />
 </h1>
 
